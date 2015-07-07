@@ -21,7 +21,7 @@ How to use Cloud9?
 * To set up the Cloud9 environment to run our Ruby application, we need to complete a few steps. Please type each command in your terminal and watch it run completely. Please be patient, as some commands might a while to complete:
   * ```rvm install ruby-2.2.2```
   * ```rvm use ruby-2.2.2```
-  * ```gem install bundler```
+  * ```gem install bundler:1.10.5```
   * ```gem install rails:4.2.1```
 * You are now ready to do the homework :)
 
