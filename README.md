@@ -1,15 +1,13 @@
 How to use Cloud9?
 ==================
 
-***
-
 ##Getting Started##
 
 * Go to [Cloud9](http://c9.io) to register an account and log in.
 * Go to the Dashboard page and select **Create New Workspace** -> **Create a New Workspace**
 * Give your workspace an awesome name, and select **Hosted** and **Custom**
 * After Cloud9 has processed your workspace, select it on the left panel and click **START EDITING**
-* In the new tab, this is what you will see: ![Oops](http://s22.postimg.org/g0bapo2kf/2015_07_07_10_14_59.png)
+* In the new tab, this is what you will see: ![Oops](http://i60.tinypic.com/2djs5s1.jpg)
   * The files are shown on the left of the page
   * Opened files are shown in the middle of the page
   * The Terminal can be found on the bottom of the page
