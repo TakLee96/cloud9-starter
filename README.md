@@ -18,11 +18,9 @@ How to use Cloud9?
 
 ##Setting up the Environment##
 
-* To set up the Cloud9 environment to run our Ruby application, we need to complete a few steps. Please type each command in your terminal and watch it run completely. Please be patient, as some commands might a while to complete:
-  * ```rvm install ruby-2.2.2```
-  * ```rvm use ruby-2.2.2```
-  * ```gem install bundler:1.10.5```
-  * ```gem install rails:4.2.1```
+* To set up the Cloud9 environment to run our Ruby application, we need to complete a few steps. Please type or copy-and-paste each command in your terminal and watch it run completely. If there is any error occured, please contact me at [jiahang_li@berkeley.edu](mailto:jiahang_li@berkeley.edu). Please be patient, as some commands might a while to complete:
+  * ```curl https://goo.gl/8cZTvR > configure-cloud9-1.1.2.sh```
+  * ```bash --login configure-cloud9-1.1.2.sh```
 * You are now ready to do the homework :)
 
 ##Homework##
@@ -44,7 +42,6 @@ How to use Cloud9?
 
 ##Heroku Deployment##
 
-* To make sure your heroku is the latest version, do ```sudo apt-get install heroku-toolbelt```
 * Make sure you have your heroku account and password ready, otherwise please go to [heroku](https://signup.heroku.com/www-header) and sign up for a new account
 * In the terminal, do ```heroku login``` and enter your email and password
 * Make sure you are in the homework folder and then do ```heroku create```
