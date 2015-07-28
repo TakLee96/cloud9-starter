@@ -19,7 +19,7 @@ How to use Cloud9?
 ##Setting up the Environment##
 
 * To set up the Cloud9 environment to run our Ruby application, we need to complete a few steps. Please type or copy-and-paste each command in your terminal and watch it run completely. If there is any error occured, please contact me at [jiahang_li@berkeley.edu](mailto:jiahang_li@berkeley.edu). Please be patient, as some commands might a while to complete:
-  * ```curl https://goo.gl/8cZTvR > configure-cloud9-1.1.2.sh```
+  * ```curl https://raw.githubusercontent.com/saasbook/courseware/master/vm-setup/configure-cloud9-1.1.2.sh > configure-cloud9-1.1.2.sh```
   * ```bash --login configure-cloud9-1.1.2.sh```
 * You are now ready to do the homework :)
 
